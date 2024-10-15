@@ -1,0 +1,29 @@
+# Binaries for programs and libraries
+*.exe
+*.exe~
+*.dll
+*.dylib
+*.so
+
+# Cargo package manager files
+/target/
+/Cargo.lock
+
+# If you're using the Cargo plugin for IntelliJ, ignore its specific files
+.idea/
+
+# Temporary files and directories created by editors/IDEs
+*.swp
+*.swo
+*.log
+*.bak
+*.tmp
+*.old
+*.DS_Store
+*.vscode/
+
+# macOS Finder directory attributes
+.DS_Store
+
+# Windows Thumbnail Cache
+Thumbs.db
